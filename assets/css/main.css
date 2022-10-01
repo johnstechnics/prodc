@@ -268,14 +268,14 @@ body.dark_theme .hero__watchtheideo:hover {
 /* hero */
 
 .benefits {
-    background-image: url(/assets/img/benefits_bg_l.png);
+    background-image: url(../../assets/img/benefits_bg_l.png);
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
 }
 
 body.dark_theme .benefits {
-    background-image: url(/assets/img/benefits_bg_d.png);
+    background-image: url(../../assets/img/benefits_bg_d.png);
 }
 
 .benefits__container {
@@ -315,22 +315,22 @@ body.dark_theme .benefits {
 
 .benefit__1 .benefit__img {
     background-color: var(--green);
-    background-image: url(/assets/img/benefit__1.svg);
+    background-image: url(../../assets/img/benefit__1.svg);
 }
 
 .benefit__2 .benefit__img {
     background-color: var(--blue_2);
-    background-image: url(/assets/img/benefit__2.svg);
+    background-image: url(../../assets/img/benefit__2.svg);
 }
 
 .benefit__3 .benefit__img {
     background-color: var(--purple);
-    background-image: url(/assets/img/benefit__3.svg);
+    background-image: url(../../assets/img/benefit__3.svg);
 }
 
 .benefit__4 .benefit__img {
     background-color: var(--red);
-    background-image: url(/assets/img/benefit__4.svg);
+    background-image: url(../../assets/img/benefit__4.svg);
 }
 
 .benefit__title {
@@ -467,7 +467,7 @@ body.dark_theme .benefits {
     height: 35px;
     border-radius: 14px;
     background-color: var(--orange);
-    background-image: url(/assets/img/check.svg);
+    background-image: url(../../assets/img/check.svg);
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -481,7 +481,7 @@ body.dark_theme .benefits {
     height: 35px;
     border-radius: 14px;
     background-color: var(--red);
-    background-image: url(/assets/img/check.svg);
+    background-image: url(../../assets/img/check.svg);
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -495,7 +495,7 @@ body.dark_theme .benefits {
     height: 35px;
     border-radius: 14px;
     background-color: var(--blue_2);
-    background-image: url(/assets/img/check.svg);
+    background-image: url(../../assets/img/check.svg);
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -566,14 +566,14 @@ body.dark_theme .benefits {
 /* process */
 
 .process {
-    background-image: url(/assets/img/process_bg_l.png);
+    background-image: url(../../assets/img/process_bg_l.png);
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
 }
 
 body.dark_theme .process {
-    background-image: url(/assets/img/process_bg_d.png);
+    background-image: url(../../assets/img/process_bg_d.png);
 }
 
 .process__container {
@@ -986,7 +986,7 @@ body.dark_theme .clientssay__item {
 .clientssay__item_rating {
     width: 107px;
     height: 19px;
-    background-image: url(/assets/img/stars.svg);
+    background-image: url(../../assets/img/stars.svg);
     background-repeat: no-repeat;
     background-position: center center;
 }
