@@ -7,3 +7,5 @@ Stack:
 - HTML
 - CSS
 - JS
+
+![preview](https://github.com/johnstechnics/prodc/blob/main/src/assets/img/preview.jpg)
